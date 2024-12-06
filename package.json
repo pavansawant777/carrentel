@@ -6,9 +6,17 @@
     "express-session": "^1.18.0",
     "install": "^0.13.0",
     "mysql": "^2.18.1",
-    "pm2": "^5.4.1",
-    "start",
-    "node index.js"
-    
-  }
+    "pm2": "^5.4.1"
+  },
+  "name": "car-rental",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
